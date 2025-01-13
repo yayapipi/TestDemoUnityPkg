@@ -1,0 +1,106 @@
+# =========== #
+#    CICD     #
+# =========== #
+/CICDNodejs/
+
+# =========== #
+#    DLCs     #
+# =========== #
+/Assets/[Oo]LD~/
+/Assets/[Oo]LD/
+/Assets/_DLCs/
+!/Assets/_DLCs.meta
+!/Assets/_DLCs/Akashic.Hotfix.DLC.Runtime.asmdef
+!/Assets/_DLCs/Akashic.Hotfix.DLC.Runtime.asmdef.meta
+
+# =========== #
+#   Project   #
+# =========== #
+/[Aa]ssetBundles/
+/[Ee]xportBundles/
+/[Bb]undles/
+/[Hh]ybridCLRData/
+/Assets/HotfixCollector/
+/Assets/StreamingAssets/appconfig.json
+/Assets/StreamingAssets/appconfig.json.meta
+/Assets/StreamingAssets/burlconfig.conf
+/Assets/StreamingAssets/burlconfig.conf.meta
+# New YooAsset Version (above v1.5.0)
+/[Yy]oo/
+/Assets/StreamingAssets/[Yy]oo/
+/Assets/StreamingAssets/[Yy]oo.meta
+/Assets/StreamingAssets/Sandbox/
+/Assets/StreamingAssets/Sandbox.meta
+# Old YooAsset Version (blow v1.4.17)
+/[Ss]andbox/
+/Assets/StreamingAssets/BuildinFiles/
+/Assets/StreamingAssets/BuildinFiles.meta
+/Assets/Resources/BuiltinFileManifest.asset
+/Assets/Resources/BuiltinFileManifest.asset.meta
+# OxGKit
+!/Assets/_OxGKit/Settings/LoggerSetting.asset
+!/Assets/_OxGKit/Settings/LoggerSetting.asset.meta
+/GameDB/
+/Game Database/
+/game-database/
+
+# =============== #
+# Unity generated #
+# =============== #
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+[Mm]emoryCaptures/
+[Ss]erverData/
+
+# ==================== #
+# Unity 2020 generated #
+# ==================== #
+/[Ll]ogs/
+/[Uu]serSettings/
+ 
+# ===================== #
+# Visual Code generated #
+# ===================== #
+.vscode/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+.vsconfig
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+/*.htm
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Tt]humbs.db.meta
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/

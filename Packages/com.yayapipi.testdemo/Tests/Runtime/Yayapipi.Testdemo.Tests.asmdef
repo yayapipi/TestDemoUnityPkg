@@ -1,0 +1,11 @@
+{
+    "name": "Yayapipi.Testdemo.Tests",
+    "references": [
+        "Yayapipi.Testdemo"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

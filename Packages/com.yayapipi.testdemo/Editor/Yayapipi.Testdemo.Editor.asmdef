@@ -1,0 +1,10 @@
+{
+    "name": "Yayapipi.Testdemo.Editor",
+    "references": [
+      "Yayapipi.Testdemo"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

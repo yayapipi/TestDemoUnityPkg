@@ -1,0 +1,14 @@
+{
+    "name": "Yayapipi.Testdemo.Editor.Tests",
+    "references": [
+        "Yayapipi.Testdemo.Editor",
+        "Yayapipi.Testdemo"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
