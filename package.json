@@ -6,5 +6,11 @@
 "unity": "6000.0",
 "license": "MIT",
 "dependencies": {
- }
+ },
+ "samples": [
+		{
+			"displayName": "YapiBtn Demo",
+			"path": "Samples~"
+		}
+	],
 }
