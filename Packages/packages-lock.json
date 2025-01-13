@@ -237,6 +237,13 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.yayapipi.yapi-btn": {
+      "version": "https://github.com/yayapipi/TestDemoUnityPkg.git#1.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "49d413dc1c1f8ea562b90b8d4c4e5368729f19ab"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
